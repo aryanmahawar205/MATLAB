@@ -1,0 +1,12 @@
+MATLAB Class - 2nd December 2023 (Vector Fields)
+
+1. Draw the dimensional vector field for the vector (x)i + (y)j
+
+2. Draw a three dimensional vector field for the vector (x)i + (y)j + (z)k
+
+3. Find the gradient vector field of f(x, y) = x^2y - y^3. Plot the gradient vector field together with a contour map of f. How are they related?
+Ans - The gradient vectors are orthogonal to the countours.
+
+4. Find the curl and the divergence of the vector field, F(x, y, z) = (x^2yz)i + (xy^2z)j + (xyz^2)k
+
+5. Determine whether or not the vector field, F(x, y, z) = (y^2z^3)i + (2xyz^3)j + (3xy^2z^2)k is conservative or not? If it is conservative, find a function f, such that F = grad f
