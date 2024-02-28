@@ -1,0 +1,13 @@
+1st December MATLAB Class (Questions)
+
+1. Draw a sphere of radius 5, centred at the origin (0,0,0) (Spherical Polar Coordinates)
+
+2. Draw a hemisphere of radius 3 with centre at the origin (0,0,0)
+(Spherical Polar Coordinates)
+
+3. Evaluate the triple integral over E, where the integrand is e^sqrt(x^2+y^2+z^2) dV, where E is enclosed by the sphere x^2+y^2+z^2 = 9 in the first octant
+(Spherical Polar Coordinates)
+
+4. Evaluate the triple integral (for volume) over E, where the integrand is z dV, where E is enclosed by the spheres x^2+y^2+z^2 = 1 and x^2+y^2+z^2 = 4 in the first octant
+(Concentric Spheres Problem)
+(Spherical Polar Coordinates)
